@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.681">
+<testcase classname="working with cucumber expressions" name="The one where user search a particular product" time="0.154">
+<system-out><![CDATA[Given joe login to TestMeApp with "JoeUser" and "JoePassword"...............passed
+When Joe search for "Travel" in the search box..............................passed
+Then TestMeApp display all the products matching with the keyword...........passed
+]]></system-out>
+</testcase>
+</testsuite>

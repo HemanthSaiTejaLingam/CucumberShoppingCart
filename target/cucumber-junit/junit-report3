@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="0.993">
+<testcase classname="Checking the TestMeApp functionality" name="The one where user successfully registers on TestMeApp" time="0.192">
+<system-out><![CDATA[Given The user is on Register page..........................................passed
+When The user enters the following details..................................passed
+And clicks on register button...............................................passed
+Then the user must register successfully....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Checking the TestMeApp functionality" name="When the user search for a product in TestMe App" time="0.004">
+<system-out><![CDATA[Given the user is in home page of the TestMe App............................passed
+When user search for "travel" in the search box.............................passed
+Then TestMeApp display products matching with the keyword...................passed
+]]></system-out>
+</testcase>
+<testcase classname="Checking the TestMeApp functionality" name="When the user search for a product in TestMe App 2" time="0.002">
+<system-out><![CDATA[Given the user is in home page of the TestMe App............................passed
+When user search for "phone" in the search box..............................passed
+Then TestMeApp display products matching with the keyword...................passed
+]]></system-out>
+</testcase>
+<testcase classname="Checking the TestMeApp functionality" name="When the user search for a product in TestMe App 3" time="0.002">
+<system-out><![CDATA[Given the user is in home page of the TestMe App............................passed
+When user search for "bag" in the search box................................passed
+Then TestMeApp display products matching with the keyword...................passed
+]]></system-out>
+</testcase>
+</testsuite>

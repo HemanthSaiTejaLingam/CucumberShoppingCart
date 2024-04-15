@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.641">
+<testcase classname="Demo on Datatable" name="user Registartion" time="0.14">
+<system-out><![CDATA[Given User is on register page..............................................passed
+When User enter following details...........................................passed
+Then User click on register.................................................passed
+And User register successfully..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

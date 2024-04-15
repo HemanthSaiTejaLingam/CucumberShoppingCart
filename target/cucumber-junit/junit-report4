@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.997">
+<testcase classname="Checking the TestMeApp functionality" name="User successful registration on TestMe App" time="0.189">
+<system-out><![CDATA[Given The user opens the registration page..................................passed
+When The user enters necessary details and registers........................passed
+Then user must successfully register........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
